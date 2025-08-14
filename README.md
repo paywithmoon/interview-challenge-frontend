@@ -44,6 +44,14 @@ Create a responsive, accessible movie listing page with search, filter, and sort
    - Focus trap in modal
    - Proper `aria` attributes
 
+### Acceptance checks (you’ll verify live):
+
+- Typing “la” finds “La La Land”.
+- Rating filter 8+ hides items < 8.0.
+- Sort “Rating high→low” puts Dune/Whiplash at top.
+- Card click opens details; ESC closes; focus returns to the triggering card.
+- Layout changes between 2 and 4 columns with window resize.
+
 ---
 
 ## Design Spec
@@ -131,15 +139,10 @@ npm run dev
 ### You will be evaluated on
 
 - Component design & state management
-
 - Accessibility compliance
-
 - Responsiveness and visual fidelity
-
 - Code clarity and maintainability
-
 - Performance considerations
-
 - Communication of tradeoffs & design decisions
 
 Good luck and have fun!

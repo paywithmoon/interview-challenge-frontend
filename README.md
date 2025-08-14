@@ -94,6 +94,7 @@ Create a responsive, accessible movie listing page with search, filter, and sort
   }
   // ...
 ]
+```
 
 # Starter code
 A minimal App.tsx has been provided with basic structure and TODO comments.

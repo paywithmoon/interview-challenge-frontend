@@ -1,0 +1,8 @@
+[
+    {"id":1,"title":"The Martian","year":2015,"rating":8.0,"genres":["Adventure","Sci-Fi"],"overview":"An astronaut becomes stranded on Mars.","poster":"https://picsum.photos/200/300?1"},
+    {"id":2,"title":"Whiplash","year":2014,"rating":8.5,"genres":["Drama","Music"],"overview":"A drummer pushed to his limits.","poster":"https://picsum.photos/200/300?2"},
+    {"id":3,"title":"Arrival","year":2016,"rating":7.9,"genres":["Drama","Sci-Fi"],"overview":"Linguist communicates with aliens.","poster":"https://picsum.photos/200/300?3"},
+    {"id":4,"title":"Mad Max: Fury Road","year":2015,"rating":8.1,"genres":["Action","Adventure"],"overview":"High-octane desert chase.","poster":"https://picsum.photos/200/300?4"},
+    {"id":5,"title":"Dune","year":2021,"rating":8.3,"genres":["Adventure","Sci-Fi"],"overview":"Heir navigates a desert planet.","poster":"https://picsum.photos/200/300?5"},
+    {"id":6,"title":"La La Land","year":2016,"rating":8.0,"genres":["Comedy","Drama","Music"],"overview":"Dreamers in LA.", "poster":"https://picsum.photos/200/300?6"}
+  ]
